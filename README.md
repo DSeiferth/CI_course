@@ -3,6 +3,8 @@
 [![codecov](https://codecov.io/gh/DSeiferth/CI_course/branch/main/graph/badge.svg?token=JQ0P9WBP3B)](undefined)
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/DSeiferth/CI_course?branch=main)](https://bettercodehub.com/)
+
+[![Documentation Status](https://readthedocs.org/projects/continuous-integration-sabs/badge/?version=latest)](https://continuous-integration-sabs.readthedocs.io/en/latest/?badge=latest)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
