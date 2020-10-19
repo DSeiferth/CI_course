@@ -1,3 +1,4 @@
+![CI](https://github.com/DSeiferth/CI_course/workflows/CI/badge.svg)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
