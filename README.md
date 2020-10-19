@@ -1,4 +1,6 @@
 ![CI](https://github.com/DSeiferth/CI_course/workflows/CI/badge.svg)
+
+[![codecov](https://codecov.io/gh/DSeiferth/CI_course/branch/main/graph/badge.svg?token=JQ0P9WBP3B)](undefined)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
